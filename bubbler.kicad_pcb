@@ -6018,6 +6018,30 @@
 			(justify bottom mirror)
 		)
 	)
+	(gr_text "C2 should be 0805\nD3 is too tight a fit"
+		(at 121.92 53.34 0)
+		(layer "Eco1.User")
+		(uuid "4b5cebab-dfd2-4cc7-b669-e91929a0da0f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "U3 is too wide"
+		(at 119.38 86.36 0)
+		(layer "Eco1.User")
+		(uuid "adb779fc-fb8b-4d1d-9171-9408d42e1d1c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 114.43515 64.45)
 		(end 112.0925 64.45)
